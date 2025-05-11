@@ -1,0 +1,2 @@
+# devopsornek
+Education repository
